@@ -40,11 +40,21 @@ features and functionalities.
  
 ***
 ## Screenshots
+![Screenshot 2024-06-03 153756](https://github.com/om453/StudyNotion-An-EDtech-Learning-Platform/assets/116504580/b82eaf42-d691-425f-8ff0-122f0efaeeb1)
+
+![Screenshot 2024-06-03 154034](https://github.com/om453/StudyNotion-An-EDtech-Learning-Platform/assets/116504580/b5f5e36b-34ea-4c75-a01a-38db7fcc0611)
+
+![Screenshot 2024-06-03 154107](https://github.com/om453/StudyNotion-An-EDtech-Learning-Platform/assets/116504580/a1d1266b-815b-42dc-97d7-b1bb39ed6537)
+
 
 <details>
   <summary>More screenshots</summary>
  
+  ![Screenshot 2024-06-03 154210](https://github.com/om453/StudyNotion-An-EDtech-Learning-Platform/assets/116504580/ac44bb66-fbc0-49a9-aa65-1a7ed0f9c073)
+  
+  ![Screenshot 2024-06-03 154326](https://github.com/om453/StudyNotion-An-EDtech-Learning-Platform/assets/116504580/5d0058e6-2fbc-4514-a179-1b1b43c2b6a9)
 </details>
+
 
 
 
