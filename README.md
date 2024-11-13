@@ -1,13 +1,13 @@
-# StudyNotion Online Education Platform (MERN Web App) [Website Link](https://studynotion-frontend-eta-gray.vercel.app/)
+# StudyVerse Online Education Platform (MERN Web App) [Website Link](https://StudyVerse-frontend-eta-gray.vercel.app/)
 
  ![Main Page](images/mainpage.png)
 
 ## Project Description
 
-StudyNotion is a fully functional ed-tech platform that enables users to create, consume,
+StudyVerse is a fully functional ed-tech platform that enables users to create, consume,
 and rate educational content. The platform is built using the MERN stack, which includes
 ReactJS, NodeJS, MongoDB, and ExpressJS.
-StudyNotion aims to provide:
+StudyVerse aims to provide:
 * A seamless and interactive learning experience for students, making education
 more accessible and engaging.
 * A platform for instructors to showcase their expertise and connect with learners
@@ -30,7 +30,7 @@ tools used.
 explanation of how these enhancements would improve the platform, estimated
 timeline and priority for implementing these enhancements.
 
-In summary, StudyNotion is a versatile and intuitive ed-tech platform that is designed to
+In summary, StudyVerse is a versatile and intuitive ed-tech platform that is designed to
 provide an immersive learning experience to students and a platform for instructors to
 showcase their expertise. In the following sections, we will delve into the technical details
 of the platform, which will provide a comprehensive understanding of the platform's
@@ -40,19 +40,19 @@ features and functionalities.
  
 ***
 ## Screenshots
-![Screenshot 2024-06-03 153756](https://github.com/om453/StudyNotion-An-EDtech-Learning-Platform/assets/116504580/b82eaf42-d691-425f-8ff0-122f0efaeeb1)
+![Screenshot 2024-06-03 153756](https://github.com/om453/StudyVerse-An-EDtech-Learning-Platform/assets/116504580/b82eaf42-d691-425f-8ff0-122f0efaeeb1)
 
-![Screenshot 2024-06-03 154034](https://github.com/om453/StudyNotion-An-EDtech-Learning-Platform/assets/116504580/b5f5e36b-34ea-4c75-a01a-38db7fcc0611)
+![Screenshot 2024-06-03 154034](https://github.com/om453/StudyVerse-An-EDtech-Learning-Platform/assets/116504580/b5f5e36b-34ea-4c75-a01a-38db7fcc0611)
 
-![Screenshot 2024-06-03 154107](https://github.com/om453/StudyNotion-An-EDtech-Learning-Platform/assets/116504580/a1d1266b-815b-42dc-97d7-b1bb39ed6537)
+![Screenshot 2024-06-03 154107](https://github.com/om453/StudyVerse-An-EDtech-Learning-Platform/assets/116504580/a1d1266b-815b-42dc-97d7-b1bb39ed6537)
 
 
 <details>
   <summary>More screenshots</summary>
  
-  ![Screenshot 2024-06-03 154210](https://github.com/om453/StudyNotion-An-EDtech-Learning-Platform/assets/116504580/ac44bb66-fbc0-49a9-aa65-1a7ed0f9c073)
+  ![Screenshot 2024-06-03 154210](https://github.com/om453/StudyVerse-An-EDtech-Learning-Platform/assets/116504580/ac44bb66-fbc0-49a9-aa65-1a7ed0f9c073)
   
-  ![Screenshot 2024-06-03 154326](https://github.com/om453/StudyNotion-An-EDtech-Learning-Platform/assets/116504580/5d0058e6-2fbc-4514-a179-1b1b43c2b6a9)
+  ![Screenshot 2024-06-03 154326](https://github.com/om453/StudyVerse-An-EDtech-Learning-Platform/assets/116504580/5d0058e6-2fbc-4514-a179-1b1b43c2b6a9)
 </details>
 
 
@@ -60,7 +60,7 @@ features and functionalities.
 
 ## System Architecture
 
-The StudyNotion ed-tech platform consists of three main components: the front end, the
+The StudyVerse ed-tech platform consists of three main components: the front end, the
 back end, and the database. The platform follows a client-server architecture, with the
 front end serving as the client and the back end and database serving as the server.
 
@@ -88,14 +88,14 @@ relevant information related to the platform.
 
 ### Architecture Diagram
 
-Here is a high-level diagram that illustrates the architecture of the StudyNotion ed-tech
+Here is a high-level diagram that illustrates the architecture of the StudyVerse ed-tech
 platform:
 
 ![Architecture](images/architecture.png)
 
 ## Front End
 
-The front end of StudyNotion has all the necessary pages that an ed-tech platform should
+The front end of StudyVerse has all the necessary pages that an ed-tech platform should
 have. Some of these pages are:
 
 ### For Students:
@@ -141,11 +141,11 @@ library for React.
 ## Back End
 
 Description of the Back-end Architecture: 
-StudyNotion uses a monolithic architecture, with the backend built using Node.js and
+StudyVerse uses a monolithic architecture, with the backend built using Node.js and
 Express.js, and MongoDB as the primary database. 
 
 Features and Functionalities of the Back-end: 
-The back end of StudyNotion provides a range of features and functionalities, including:
+The back end of StudyVerse provides a range of features and functionalities, including:
 1. User authentication and authorization: Students and instructors can sign up and log in
 to the platform using their email addresses and password. The platform also supports
 OTP (One-Time Password) verification and forgot password functionality for added
@@ -154,14 +154,14 @@ security.
 as manage course content and media. Students can view and rate courses.
 1. Payment Integration: Students will purchase and enrol on courses by completing the
 checkout flow that is followed by Razorpay integration for payment handling.
-1. Cloud-based media management: StudyNotion uses Cloudinary, a cloud-based media
+1. Cloud-based media management: StudyVerse uses Cloudinary, a cloud-based media
 management service, to store and manage all media content, including images, videos,
 and documents.
 1. Markdown formatting: Course content in document format is stored in Markdown
 format, which allows for easier display and rendering on the front end.
 
 Frameworks, Libraries, and Tools used: 
-The back end of StudyNotion uses a range of frameworks, libraries, and tools to ensure its
+The back end of StudyVerse uses a range of frameworks, libraries, and tools to ensure its
 functionality and performance, including:
 1. Node.js: Node.js is used as the primary framework for the back end.
 2. MongoDB: MongoDB is used as the primary database, providing a flexible and scalable
@@ -176,7 +176,7 @@ data.
 way to interact with MongoDB using JavaScript
 
 ### Data Models and Database Schema: 
-The back end of StudyNotion uses a range of data models and database schemas to
+The back end of StudyVerse uses a range of data models and database schemas to
 manage data, including:
 1. Student schema: Includes fields such as name, email, password, and course details
 for each student.
@@ -185,7 +185,7 @@ details for each instructor.
 3. Course schema: Includes fields such as course name, description, instructor details,
 and media content.
 
-Overall, the back-end of StudyNotion is designed to provide a robust and scalable solution
+Overall, the back-end of StudyVerse is designed to provide a robust and scalable solution
 for an ed-tech platform, with a focus on security, reliability, and ease of use. By using the
 right frameworks, libraries, and tools, we can ensure that the platform functions smoothly
 and provides an optimal user experience for all its users.
@@ -194,7 +194,7 @@ and provides an optimal user experience for all its users.
 
 ## API Design
 
-The StudyNotion platform's API is designed following the REST architectural style. The
+The StudyVerse platform's API is designed following the REST architectural style. The
 API is implemented using Node.js and Express.js. It uses JSON for data exchange and
 follows standard HTTP request methods such as GET, POST, PUT, and DELETE.
 Sample list of API endpoints and their functionalities: 
@@ -224,11 +224,11 @@ Sample API requests and responses:
 5. DELETE /api/courses/:id: Delete a course by ID
    * Response: A success message indicating that the course has been deleted.
 
-In conclusion, the REST API design for the StudyNotion ed-tech platform is a crucial part
+In conclusion, the REST API design for the StudyVerse ed-tech platform is a crucial part
 of the project. The API endpoints and their functionalities are designed to ensure seamless
 communication between the front-end and back-end of the application. By following
 RESTful principles, the API will be scalable, maintainable, and reliable. The sample API
 requests and responses provided above illustrate how each endpoint will function and
-what kind of data it will accept or return. With this API design, StudyNotion will be able to
+what kind of data it will accept or return. With this API design, StudyVerse will be able to
 provide a smooth user experience while ensuring security and stability.
 
