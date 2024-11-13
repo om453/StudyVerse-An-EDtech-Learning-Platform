@@ -1,7 +1,5 @@
 # StudyVerse Online Education Platform (MERN Web App) [Website Link](https://StudyVerse-frontend-eta-gray.vercel.app/)
 
- ![Main Page](images/mainpage.png)
-
 ## Project Description
 
 StudyVerse is a fully functional ed-tech platform that enables users to create, consume,
@@ -37,22 +35,20 @@ of the platform, which will provide a comprehensive understanding of the platfor
 features and functionalities.
 
 
- 
+![Screenshot 2024-11-14 010850](https://github.com/user-attachments/assets/c9e585e3-3f6c-409e-afdf-68c1955df1eb)
+
+
 ***
 ## Screenshots
-![Screenshot 2024-06-03 153756](https://github.com/om453/StudyVerse-An-EDtech-Learning-Platform/assets/116504580/b82eaf42-d691-425f-8ff0-122f0efaeeb1)
-
-![Screenshot 2024-06-03 154034](https://github.com/om453/StudyVerse-An-EDtech-Learning-Platform/assets/116504580/b5f5e36b-34ea-4c75-a01a-38db7fcc0611)
-
-![Screenshot 2024-06-03 154107](https://github.com/om453/StudyVerse-An-EDtech-Learning-Platform/assets/116504580/a1d1266b-815b-42dc-97d7-b1bb39ed6537)
-
+![Screenshot 2024-11-14 015047](https://github.com/user-attachments/assets/ac9fe64d-6d03-47c0-b26d-0c93019c8782)
 
 <details>
   <summary>More screenshots</summary>
+
+ ![Screenshot 2024-11-14 011255](https://github.com/user-attachments/assets/0f66b723-513d-4969-8804-a62e28f4cd7a)
  
-  ![Screenshot 2024-06-03 154210](https://github.com/om453/StudyVerse-An-EDtech-Learning-Platform/assets/116504580/ac44bb66-fbc0-49a9-aa65-1a7ed0f9c073)
-  
-  ![Screenshot 2024-06-03 154326](https://github.com/om453/StudyVerse-An-EDtech-Learning-Platform/assets/116504580/5d0058e6-2fbc-4514-a179-1b1b43c2b6a9)
+ ![Screenshot 2024-11-14 013817](https://github.com/user-attachments/assets/30a441fb-3bf8-4ab6-9346-c40d68ce86ee)
+
 </details>
 
 
